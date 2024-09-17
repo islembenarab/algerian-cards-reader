@@ -3,7 +3,7 @@
 
 # Algerian Document  Scanner App
 
-This is an Android application that integrates text recognition and document scanning functionalities using Google ML Kit and CameraX, along with several additional libraries for image and media processing.
+This is an Android application that scans Algerian documents with NFC technology starting from reading the MRZ to showing all the allowed information stored in the card.
 
 ## Features
 
